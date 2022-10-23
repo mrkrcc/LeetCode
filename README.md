@@ -1,3 +1,3 @@
-## LeetCode
+# LeetCode
 
-# Python Solutions
+## Python Solutions
